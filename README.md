@@ -24,6 +24,8 @@ Mussum Ipsum (gerador de lorem ipsum do Mussum): http://mussumipsum.com/
 
 Ao terminar o teste, envie para desafiojurunense@gmail.com.
 
+#PRAZO DE ENTREGA: 21/03/20 até às 23:59:99
+
 Em caso de dúvidas, envie e-mail para jonilson.ferreira@jurunense.com.br.
 
 Boa sorte!
